@@ -18,6 +18,7 @@ export const Training = styled.div`
   flex: 1;
   padding-right: 30px;
   color: white;
+  width: 300px;
   padding: 24px 28px 24px 10px;
   border-right: 1px solid black;
   display: flex;
